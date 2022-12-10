@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/myappi/static/js/main.e9e57180.js",
+    "main.js": "/myappi/static/js/main.ce85b2cb.js",
     "index.html": "/myappi/index.html",
-    "main.e9e57180.js.map": "/myappi/static/js/main.e9e57180.js.map"
+    "main.ce85b2cb.js.map": "/myappi/static/js/main.ce85b2cb.js.map"
   },
   "entrypoints": [
-    "static/js/main.e9e57180.js"
+    "static/js/main.ce85b2cb.js"
   ]
 }
