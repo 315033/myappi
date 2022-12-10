@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/myappi.git/static/js/main.3b189565.js",
-    "index.html": "/myappi.git/index.html",
-    "main.3b189565.js.map": "/myappi.git/static/js/main.3b189565.js.map"
+    "main.js": "/myappi/static/js/main.e9e57180.js",
+    "index.html": "/myappi/index.html",
+    "main.e9e57180.js.map": "/myappi/static/js/main.e9e57180.js.map"
   },
   "entrypoints": [
-    "static/js/main.3b189565.js"
+    "static/js/main.e9e57180.js"
   ]
 }
